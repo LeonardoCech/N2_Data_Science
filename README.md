@@ -1,6 +1,6 @@
 # N2_Data_Science Análise Eleitoral
 
-Alunos: Iohana Linhares e Leonardo Cech
+Alunos: Iohana Linhares, Lavínia Vitória e Leonardo Cech
 
 Este projeto tem como objetivo analisar dados eleitorais e gerar visualizações através de um dashboard interativo utilizando Streamlit.
 
